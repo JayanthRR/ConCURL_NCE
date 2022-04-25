@@ -6,7 +6,7 @@ If you find this work useful to your, please cite :
 @article{deshmukh2021representation,
   title={Representation Learning for Clustering via Building Consensus},
   author={Deshmukh, Aniket Anand and Regatti, Jayanth Reddy and Manavoglu, Eren and Dogan, Urun},
-  journal={arXiv preprint arXiv:2105.01289},
+  journal={Springer Machine Learning Journal arXiv preprint arXiv:2105.01289},
   year={2021}
 }
 ```
